@@ -1,0 +1,70 @@
+[
+    {
+        "brand": "Toyota",
+        "country": "Japan"
+    },
+    {
+        "brand": "Ford",
+        "country": "United States"
+    },
+    {
+        "brand": "Volkswagen",
+        "country": "Germany"
+    },
+    {
+        "brand": "Honda",
+        "country": "Japan"
+    },
+    {
+        "brand": "Chevrolet",
+        "country": "United States"
+    },
+    {
+        "brand": "BMW",
+        "country": "Germany"
+    },
+    {
+        "brand": "Hyundai",
+        "country": "South Korea"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "country": "Germany"
+    },
+    {
+        "brand": "Nissan",
+        "country": "Japan"
+    },
+    {
+        "brand": "Kia",
+        "country": "South Korea"
+    },
+    {
+        "brand": "Zhuguly",
+        "country": "SRSR"
+    },
+    {
+        "brand": "Zhuguly",
+        "country": "SRSR"
+    },
+    {
+        "brand": "Zhuguly",
+        "country": "SRSR"
+    },
+    {
+        "brand": "Zhuguly",
+        "country": "SRSR"
+    },
+    {
+        "brand": "Zhuguly",
+        "country": "SRSR"
+    },
+    {
+        "brand": "\"\"",
+        "country": "\"\""
+    },
+    {
+        "brand": "\"\"",
+        "country": "\"\""
+    }
+]
